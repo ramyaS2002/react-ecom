@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-ecom/static/css/main.ddc69f8c.css",
+    "main.js": "/react-ecom/static/js/main.3a869868.js",
+    "static/js/453.48d7f081.chunk.js": "/react-ecom/static/js/453.48d7f081.chunk.js",
+    "static/media/footer-pattern.jpg": "/react-ecom/static/media/footer-pattern.b2c6e6dcc3abb3914c1d.jpg",
+    "static/media/shirt.png": "/react-ecom/static/media/shirt.2158cfde59d98537adbe.png",
+    "static/media/shirt2.png": "/react-ecom/static/media/shirt2.5204a164260500adea6d.png",
+    "static/media/women (1).png": "/react-ecom/static/media/women (1).f171f124df4d16b65029.png",
+    "static/media/women.png": "/react-ecom/static/media/women.f171f124df4d16b65029.png",
+    "static/media/sale.png": "/react-ecom/static/media/sale.520f3174bffb33116128.png",
+    "static/media/shopping.png": "/react-ecom/static/media/shopping.5df962e820edb4d3a124.png",
+    "static/media/shirt3.png": "/react-ecom/static/media/shirt3.7f145304848763ce4ee4.png",
+    "static/media/dark-mode-button.png": "/react-ecom/static/media/dark-mode-button.c5b620c1550b3c201b56.png",
+    "static/media/light-mode-button.png": "/react-ecom/static/media/light-mode-button.9ed4504ff522dfde699a.png",
+    "static/media/logo (5).png": "/react-ecom/static/media/logo (5).f8d205c6d3469a2037b6.png",
+    "static/media/women3.jpg": "/react-ecom/static/media/women3.d4ee3d6adcf98524fedb.jpg",
+    "static/media/women4.jpg": "/react-ecom/static/media/women4.de4d6fb7a9937264471c.jpg",
+    "static/media/women2.jpg": "/react-ecom/static/media/women2.b095b5ece1ec61c6769b.jpg",
+    "static/media/slick.svg": "/react-ecom/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react-ecom/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/react-ecom/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react-ecom/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/react-ecom/index.html",
+    "main.ddc69f8c.css.map": "/react-ecom/static/css/main.ddc69f8c.css.map",
+    "main.3a869868.js.map": "/react-ecom/static/js/main.3a869868.js.map",
+    "453.48d7f081.chunk.js.map": "/react-ecom/static/js/453.48d7f081.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddc69f8c.css",
+    "static/js/main.3a869868.js"
+  ]
+}
